@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Zeta Malta Bunkering Areas and 13 NM Coastal Buffer</name>
+    <description>Operational visual reference only. Not for navigation. 13 NM buffer uses a simplified coastline outline.</description>
+    <Style id="buffer">
+      <LineStyle>
+        <color>ff9e9e9e</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>159e9e9e</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="navy">
+      <LineStyle>
+        <color>ff522d06</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>1f522d06</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="mustard">
+      <LineStyle>
+        <color>ff329ac4</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>1f329ac4</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="maroon">
+      <LineStyle>
+        <color>ff2a1f7a</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>1f2a1f7a</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="green">
+      <LineStyle>
+        <color>ff3d5424</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>1f3d5424</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="grey">
+      <LineStyle>
+        <color>ff808080</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>15808080</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Folder>
+      <name>13 NM Coastal Buffer - Option B</name>
+      <Placemark>
+        <name>13 NM Coastal Reference Buffer</name>
+        <styleUrl>#buffer</styleUrl>
+        <description>Approximate 13 nautical mile buffer from a simplified Malta archipelago coastline. Operational visual reference only; not an official maritime boundary and not for navigation.</description>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>14.073930,35.816692,0 14.062470,35.822080,0 14.053399,35.826541,0 14.044552,35.831291,0 14.035943,35.836324,0 14.027586,35.841630,0 14.019492,35.847202,0 14.011677,35.853032,0 14.004150,35.859109,0 13.996926,35.865424,0 13.990014,35.871968,0 13.983426,35.878729,0 13.977173,35.885699,0 13.971264,35.892864,0 13.965708,35.900215,0 13.947662,35.925180,0 13.942543,35.932587,0 13.937783,35.940151,0 13.933390,35.947861,0 13.929370,35.955704,0 13.925730,35.963669,0 13.922476,35.971744,0 13.919613,35.979916,0 13.917144,35.988172,0 13.915075,35.996501,0 13.913408,36.004889,0 13.912146,36.013324,0 13.911291,36.021793,0 13.910845,36.030282,0 13.910808,36.038779,0 13.911181,36.047270,0 13.913086,36.075273,0 13.913855,36.083634,0 13.915022,36.091965,0 13.916584,36.100252,0 13.918540,36.108485,0 13.920886,36.116650,0 13.923621,36.124736,0 13.926738,36.132730,0 13.930235,36.140620,0 13.934105,36.148394,0 13.938344,36.156041,0 13.942944,36.163550,0 13.947899,36.170909,0 13.953202,36.178106,0 13.970162,36.200138,0 13.975986,36.207374,0 13.982161,36.214417,0 13.988678,36.221254,0 13.995528,36.227876,0 14.002698,36.234271,0 14.010178,36.240430,0 14.017955,36.246341,0 14.026018,36.251997,0 14.034354,36.257388,0 14.042949,36.262506,0 14.051790,36.267341,0 14.060863,36.271888,0 14.070153,36.276137,0 14.079645,36.280083,0 14.089325,36.283719,0 14.099177,36.287040,0 14.109185,36.290040,0 14.119333,36.292714,0 14.129605,36.295058,0 14.139985,36.297069,0 14.174072,36.303086,0 14.184826,36.304796,0 14.195657,36.306149,0 14.206549,36.307141,0 14.217481,36.307771,0 14.228436,36.308038,0 14.239396,36.307941,0 14.250341,36.307481,0 14.261254,36.306659,0 14.272116,36.305475,0 14.282909,36.303932,0 14.293614,36.302032,0 14.334719,36.294012,0 14.344317,36.291984,0 14.353816,36.289670,0 14.363202,36.287071,0 14.372462,36.284193,0 14.381583,36.281038,0 14.390553,36.277612,0 14.399360,36.273919,0 14.407991,36.269964,0 14.454064,36.247913,0 14.462817,36.243535,0 14.471354,36.238887,0 14.479665,36.233976,0 14.487735,36.228811,0 14.495553,36.223397,0 14.503109,36.217744,0 14.510389,36.211859,0 14.517385,36.205752,0 14.524085,36.199432,0 14.530480,36.192907,0 14.536560,36.186188,0 14.542316,36.179284,0 14.547740,36.172206,0 14.549294,36.169993,0 14.553678,36.168885,0 14.564030,36.165884,0 14.574222,36.162541,0 14.620317,36.146502,0 14.630169,36.142878,0 14.639830,36.138933,0 14.649287,36.134674,0 14.658522,36.130108,0 14.667521,36.125242,0 14.676270,36.120085,0 14.684753,36.114644,0 14.692957,36.108929,0 14.732974,36.079870,0 14.740964,36.073821,0 14.748641,36.067512,0 14.755993,36.060953,0 14.763008,36.054155,0 14.769674,36.047130,0 14.775980,36.039889,0 14.781915,36.032444,0 14.787469,36.024809,0 14.792634,36.016995,0 14.797401,36.009017,0 14.801762,36.000886,0 14.805709,35.992618,0 14.819625,35.961588,0 14.822878,35.953884,0 14.825773,35.946085,0 14.828306,35.938204,0 14.830472,35.930250,0 14.832270,35.922237,0 14.833697,35.914173,0 14.834750,35.906072,0 14.835429,35.897945,0 14.835732,35.889803,0 14.835660,35.881657,0 14.834543,35.846658,0 14.834041,35.837835,0 14.833098,35.829036,0 14.831717,35.820275,0 14.829900,35.811567,0 14.827650,35.802927,0 14.824971,35.794368,0 14.821867,35.785905,0 14.818344,35.777552,0 14.814407,35.769322,0 14.810064,35.761230,0 14.805322,35.753288,0 14.785251,35.721326,0 14.780233,35.713710,0 14.774849,35.706261,0 14.769105,35.698994,0 14.763013,35.691918,0 14.756581,35.685046,0 14.749820,35.678387,0 14.742741,35.671953,0 14.735354,35.665754,0 14.727671,35.659800,0 14.719706,35.654099,0 14.711469,35.648661,0 14.702975,35.643494,0 14.694236,35.638607,0 14.653288,35.616657,0 14.644582,35.612181,0 14.635670,35.607983,0 14.626568,35.604069,0 14.617287,35.600444,0 14.607843,35.597115,0 14.598249,35.594086,0 14.588519,35.591362,0 14.578668,35.588947,0 14.568711,35.586844,0 14.558661,35.585056,0 14.548535,35.583587,0 14.538348,35.582438,0 14.528114,35.581610,0 14.517848,35.581107,0 14.507567,35.580927,0 14.497284,35.581071,0 14.487016,35.581540,0 14.440480,35.584390,0 14.435162,35.582670,0 14.425257,35.579831,0 14.415223,35.577312,0 14.405076,35.575118,0 14.394832,35.573252,0 14.384505,35.571718,0 14.374113,35.570517,0 14.363671,35.569651,0 14.353196,35.569122,0 14.342703,35.568931,0 14.332209,35.569077,0 14.321731,35.569561,0 14.311283,35.570382,0 14.300884,35.571539,0 14.290548,35.573029,0 14.280291,35.574851,0 14.270131,35.577001,0 14.260081,35.579477,0 14.250159,35.582274,0 14.240378,35.585388,0 14.230756,35.588815,0 14.221305,35.592549,0 14.212041,35.596584,0 14.202979,35.600914,0 14.198985,35.602909,0 14.190162,35.607514,0 14.181566,35.612399,0 14.173212,35.617555,0 14.165112,35.622976,0 14.157278,35.628653,0 14.149724,35.634576,0 14.142459,35.640738,0 14.135497,35.647128,0 14.128847,35.653736,0 14.122521,35.660553,0 14.116527,35.667567,0 14.110875,35.674768,0 14.105574,35.682145,0 14.100633,35.689687,0 14.096059,35.697381,0 14.091858,35.705216,0 14.088039,35.713180,0 14.084607,35.721260,0 14.081566,35.729444,0 14.078923,35.737719,0 14.076681,35.746073,0 14.074844,35.754492,0 14.073415,35.762964,0 14.072397,35.771474,0 14.071790,35.780011,0 14.071596,35.788561,0 14.071816,35.797110,0 14.072448,35.805646,0 14.073494,35.814155,0 14.073930,35.816692,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Official Designated Bunkering Areas</name>
+      <Placemark>
+        <name>Bunkering Area 1</name>
+        <styleUrl>#navy</styleUrl>
+        <description>Bunkering Area 1. WGS84 boundary transcribed from Transport Malta published coordinates. Confirm latest official instructions before operational use.</description>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>14.376000,36.028833,0 14.391000,36.028833,0 14.415517,36.013733,0 14.412317,36.010283,0 14.423750,36.001983,0 14.434800,35.992617,0 14.441833,35.993500,0 14.441833,35.994333,0 14.396000,35.987167,0 14.376000,36.028833,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Bunkering Area 3 West</name>
+        <styleUrl>#mustard</styleUrl>
+        <description>Bunkering Area 3 West. WGS84 boundary transcribed from Transport Malta published coordinates. Confirm latest official instructions before operational use.</description>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>14.742667,35.915500,0 14.783333,35.915500,0 14.783333,35.865500,0 14.742667,35.865500,0 14.742667,35.915500,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Bunkering Area 3 East - Laden Tankers</name>
+        <styleUrl>#maroon</styleUrl>
+        <description>Bunkering Area 3 East - Laden Tankers. WGS84 boundary transcribed from Transport Malta published coordinates. Confirm latest official instructions before operational use.</description>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>14.783333,35.915500,0 14.812667,35.915500,0 14.812667,35.865500,0 14.783333,35.865500,0 14.783333,35.915500,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Bunkering Area 4</name>
+        <styleUrl>#green</styleUrl>
+        <description>Bunkering Area 4. WGS84 boundary transcribed from Transport Malta published coordinates. Confirm latest official instructions before operational use.</description>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>14.599333,35.843833,0 14.599333,35.819417,0 14.596050,35.822850,0 14.591033,35.822850,0 14.587800,35.820183,0 14.587817,35.817333,0 14.588783,35.815600,0 14.581000,35.815667,0 14.599333,35.843833,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Bunkering Area 6</name>
+        <styleUrl>#navy</styleUrl>
+        <description>Bunkering Area 6. WGS84 boundary transcribed from Transport Malta published coordinates. Confirm latest official instructions before operational use.</description>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>14.317667,35.963833,0 14.322667,35.963833,0 14.327667,35.953833,0 14.322667,35.947167,0 14.317667,35.947167,0 14.317667,35.963833,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Waiting Area</name>
+        <styleUrl>#grey</styleUrl>
+        <description>Waiting Area. WGS84 boundary transcribed from Transport Malta published coordinates. Confirm latest official instructions before operational use.</description>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>14.698833,35.860000,0 14.755500,35.860000,0 14.755500,35.833333,0 14.698833,35.833333,0 14.698833,35.860000,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Operational Reference Points</name>
+      <Placemark>
+        <name>13 NM from Delimara toward Area 3</name>
+        <description>Calculated approximate reference point, not an official anchorage or navigational position.</description>
+        <Point>
+          <coordinates>14.804859,35.906635,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
